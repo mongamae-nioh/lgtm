@@ -1,8 +1,12 @@
-certifi==2019.11.28
+certifi==2020.12.5
 chardet==3.0.4
 Click==7.0
+distro-info==0.21
 idna==2.8
--e git+https://github.com/mongamae-nioh/lgtm.git@1e224fcca8571b761cec67227df4ad6caea0dc9b#egg=lgtm
 Pillow==6.2.1
+pycurl==7.43.0.2
+PyGObject==3.30.4
+python-apt==1.8.4.2
 requests==2.22.0
-urllib3==1.25.8
+unattended-upgrades==0.1
+urllib3==1.25.11
